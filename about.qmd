@@ -9,3 +9,9 @@ About this site
 ```
 
 # HELLO I AM NOLAN
+
+Testing git push
+
+```{r}
+42/6
+```
